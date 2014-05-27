@@ -1,0 +1,17 @@
+                        <Label text="Customer Name" />
+                        <Text text="{CustomerName}" />
+                        <Label text="City" />
+                        <Text text="{City}" />
+                        <Label text="Postcode" />
+                        <Text text="{PostalCode}" />
+
+---
+                <IconTabFilter icon="sap-icon://factory">
+                	<form:SimpleForm id="DivisonInfo" minWidth="400" editable="false">
+                		<core:Title text="Division" />
+                		<Label text="Division" />
+                		<Text text="{DivisionName}" />
+                		<Label text="Distribution Channel" />
+                		<Text text="{DistributionChannelName} ({DistributionChannel})" />
+                	</form:SimpleForm>
+                </IconTabFilter>
