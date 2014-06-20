@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>SAP River RDE 10 - Create and Run Apps in SAP HANA Cloud</title>
+		<style type="text/css">
+			div {
+				width:420px;
+				height:20px;
+				background-color:#ddeedd;
+				border:1px solid black;
+			}
+		</style>
+	</head>
+	<body>
+		<div>SAP River RDE 10 - Create and Run Apps in SAP HANA Cloud</div>
+	</body>
+</html>
