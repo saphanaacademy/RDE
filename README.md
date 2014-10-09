@@ -1,7 +1,7 @@
-SAP River Rapid Development Environment
-=======================================
+SAP Web IDE
+===========
 
-Code snippets and source data corresponding to SAP HANA Academy course "SAP River Rapid Development Environment" 
+Code snippets and source data corresponding to SAP HANA Academy course "SAP Web IDE" 
 
 https://www.youtube.com/playlist?list=PLkzo92owKnVwnV5o1psI7XSA-AquO9_9g
 
